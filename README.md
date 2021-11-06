@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hello there 🖖
+
+### Check out [Tomayto? Tomahto!](https://aiskreme.github.io/Tomayto-Tomahto/) 🎮
+
+
 
 <!--
 **AisKreme/AisKreme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
