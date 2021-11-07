@@ -1,6 +1,6 @@
 ## Hello there 🖖
 
-### Check out [Tomayto? Tomahto!](tomayto.karmaco.de/) 🎮
+### Check out [Tomayto? Tomahto!](https://tomayto.karmaco.de/) 🎮
 
 
 
