@@ -1,6 +1,6 @@
 ## Hello there 🖖
 
-### Check out [Tomayto? Tomahto!](https://aiskreme.github.io/Tomayto-Tomahto/) 🎮
+### Check out [Tomayto? Tomahto!](https://www.karmaco.de/) 🎮
 
 
 
