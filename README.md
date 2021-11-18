@@ -1,6 +1,8 @@
 ## Hello there 🖖
-Project 1 @ Ironhack: [https://tomayto.karmaco.de](Tomayto? Tomahto!)
-Project 2 @ Ironhack: [https://github.com/haukeeckel/Paperfy](Paperfy) - work in progress 🔭
+
+Project 1 @ Ironhack: [Tomayto? Tomahto!](https://tomayto.karmaco.de/)
+
+Project 2 @ Ironhack: [Paperfy](https://github.com/haukeeckel/Paperfy/) - work in progress 🔭
 
 <!--
 **AisKreme/AisKreme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
